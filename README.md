@@ -10,6 +10,8 @@ A short list of recent events and news of the BigNeuron project.
 
 [Jan 2016] BigNeuron accomplished bench-testing of 44 algorithms / impelementations for all datasets with gold standard and silver standard reconstructions.
 
+[Dec 2015] BigNeuron was highlighted in the South Korea KAIST neuroscience workshop (http://raphe.kaist.ac.kr/apctpkaist/schedule.htm)
+
 [Dec 2015] BigNeuron provided the bench testing results to algorithm developers for fine-tuning of parameters and neuron tracing algorithms.
 
 [Nov 2015] AINI'2015 featured BigNeuron talk as a keynote (http://www.neuroinf.jp/aini2015).
