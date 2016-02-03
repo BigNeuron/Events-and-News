@@ -20,7 +20,7 @@ A short list of recent events and news of the BigNeuron project.
 
 [Nov 2015] AINI'2015 featured BigNeuron talk as a keynote (http://www.neuroinf.jp/aini2015).
 
-[Nov 2015] BigNeuron held the first data visualization and analysis hackathon at Oak Ridge National Lab, utilizing the large display wall of supercomputing facility. (https://www.olcf.ornl.gov/2016/01/05/bigneuron-hackathon-branches-out-at-olcf/)
+[Nov 2015] BigNeuron held the first data visualization and analysis hackathon at Oak Ridge National Lab, utilizing the large display wall of supercomputing facility. (https://www.olcf.ornl.gov/2016/01/05/bigneuron-hackathon-branches-out-at-olcf/) . Event was cosponsored by INCF, ORNL, and Allen Institute.
 
 [Oct 2015] A Neuron Tracing algorithm workshop devoted for BigNeuron was held together in the 2015 Bioimage Informatics conference at NIST (http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm). 5 teams from Janelia (USA), Allen (USA), Taiwan, Singapore, and Illinois (USA), presented their featured work on various neruon tracing strategies.
 
