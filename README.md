@@ -22,6 +22,10 @@ A short list of recent events and news of the BigNeuron project.
 
 [Aug 2015] The Big Machine for BigNeuron workshop, a supercomputing workshop featured BigNeuron, was held at London (http://braininformatics.london/)
 
+[Aug 2015] Erik Meijering gave a feature talk on BigNeuron at the 2015 EMBC conference at Milan, Italy (http://embc.embs.org/2015/w-fd-4/)
+
+[July 2015] BigNeuron color separation program developed by Hanbo Chen has been used to produced 13000+ single neuron images of fruitfly brains. These data will add to the 20000 or so contributed neuron images (of different sopecies) by other labs worldwide.
+
 [July 2015] First data release of BigNeuron: the training datasets of 79 neurons (https://github.com/BigNeuron/BigNeuron-Wiki/wiki/Bench-Testing-and-Training-Data#training-image-data) that come with gold standard manual annotation have been distributed to algorithm developers to fine tune their methods.
 
 [July 2015] The Neuron journal published the position paper about BigNeuron project (http://www.cell.com/neuron/abstract/S0896-6273%2815%2900599-1) 
