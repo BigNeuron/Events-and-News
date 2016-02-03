@@ -28,6 +28,8 @@ A short list of recent events and news of the BigNeuron project.
 
 [Sept 2015] Giorgio Ascoli was featured for his talk at BIH'2015 and involvement of BigNeuron (http://braininformatics.london/tag/bigneuron/)
 
+[Aug 2015] The SmartTracing paper (also ported in BigNeuron) was published in Brain Informatics (http://link.springer.com/article/10.1007%2Fs40708-015-0018-y)
+
 [Aug 2015] The Big Machine for BigNeuron workshop, a supercomputing workshop featured BigNeuron, was held at London (http://braininformatics.london/)
 
 [Aug 2015] Erik Meijering gave a feature talk on BigNeuron at the 2015 EMBC conference at Milan, Italy (http://embc.embs.org/2015/w-fd-4/)
