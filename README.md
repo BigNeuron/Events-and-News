@@ -60,6 +60,8 @@ A short list of recent events and news of the BigNeuron project.
 
 [April 2015] Lawrence Berkeley National Lab issued a news piece regarding its partnership in BigNeuron (http://cs.lbl.gov/news-media/news/2015/bigneuron-unlocking-the-secrets-of-the-human-brain/)
 
+[April 2015] BigNeuron came to Cambridge! (http://www.neuroscience.cam.ac.uk/news/article.php?permalink=57dc178dfd)
+
 [March 2015] GeekWire published its interview on BigNeuron (http://www.geekwire.com/2015/allen-institute-for-brain-science-leads-project-to-reconstruct-3d-neural-images-with-supercomputers/)
 
 [March 2015] George Mason University issued a press release of the BigNeuron project (https://test.gmu.edu/news/1910)
