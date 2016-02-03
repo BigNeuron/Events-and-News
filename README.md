@@ -12,7 +12,7 @@ A short list of recent events and news of the BigNeuron project.
 
 [Dec 2015] BigNeuron returned algorithm developers the bench testing results for fine-tuning of parameters and neuron tracing algorithms.
 
-[Nov 2015] BigNeuron held the first data visualization and analysis hackathon at Oak Ridge National Lab, utilizing the large display wall of supercomputing facility. 
+[Nov 2015] BigNeuron held the first data visualization and analysis hackathon at Oak Ridge National Lab, utilizing the large display wall of supercomputing facility. (https://www.olcf.ornl.gov/2016/01/05/bigneuron-hackathon-branches-out-at-olcf/)
 
 [Oct 2015] A Neuron Tracing algorithm workshop devoted for BigNeuron was held together in the 2015 Bioimage Informatics conference at NIST (http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm). 5 teams from Janelia (USA), Allen (USA), Taiwan, Singapore, and Illinois (USA), presented their featured work on various neruon tracing strategies.
 
@@ -20,7 +20,7 @@ A short list of recent events and news of the BigNeuron project.
 
 [Aug 2015] The Big Machine for BigNeuron workshop, a supercomputing workshop featured BigNeuron, was held at London (http://braininformatics.london/)
 
-[July 2015] First data release of BigNeuron: the training datasets of 79 neurons that come with gold standard manual annotation have been distributed to algorithm developers to fine tune their methods.
+[July 2015] First data release of BigNeuron: the training datasets of 79 neurons (https://github.com/BigNeuron/BigNeuron-Wiki/wiki/Bench-Testing-and-Training-Data#training-image-data) that come with gold standard manual annotation have been distributed to algorithm developers to fine tune their methods.
 
 [July 2015] The Neuron journal published the position paper about BigNeuron project (http://www.cell.com/neuron/abstract/S0896-6273%2815%2900599-1) 
 
