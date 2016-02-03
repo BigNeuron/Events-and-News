@@ -10,7 +10,9 @@ A short list of recent events and news of the BigNeuron project.
 
 [Jan 2016] BigNeuron accomplished bench-testing of 44 algorithms / impelementations for all datasets with gold standard and silver standard reconstructions.
 
-[Dec 2015] The BigNeuron project was presented at Shanghai (http://www.shu.edu.cn/Default.aspx?tabid=10470&ctl=Detail&mid=19747&Id=89563&SkinSrc=[L]Skins/SDweb/index) 
+[Dec 2015] First show of BigNeuron at Nanjing, China (http://rcls.seu.edu.cn/newsread.aspx?newsid=446)
+
+[Dec 2015] The BigNeuron project was introduced to Shanghai, China (http://www.shu.edu.cn/Default.aspx?tabid=10470&ctl=Detail&mid=19747&Id=89563&SkinSrc=[L]Skins/SDweb/index) 
 
 [Dec 2015] BigNeuron was highlighted in the South Korea KAIST neuroscience workshop (http://raphe.kaist.ac.kr/apctpkaist/schedule.htm)
 
