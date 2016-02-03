@@ -34,6 +34,12 @@ A short list of recent events and news of the BigNeuron project.
 
 [May 2015] BigNeuron held the second algorithm porting hackathon at University of Cambridge, UK. Event was cosponsored by Wellcome Trust, University of Cambridge and Allen Institute for Brain Science. (https://www.linkedin.com/pulse/bigneuron-cambridge-hackathon-may-4-8-2015-hanchuan-peng)
 
+[May 2015] GEN published a news piece about BigNeuron (http://www.genengnews.com/gen-articles/brain-projects-get-researchers-thinking-big/5474/)
+
+[April 2015] Lawrence Berkeley Nantional Lab issued a news piece regarding its partnership in BigNeuron (http://cs.lbl.gov/news-media/news/2015/bigneuron-unlocking-the-secrets-of-the-human-brain/)
+
+[March 2015] GeekWire published its interview on BigNeuron (http://www.geekwire.com/2015/allen-institute-for-brain-science-leads-project-to-reconstruct-3d-neural-images-with-supercomputers/)
+
 [March 2015] The BigNeuron project goes public! News from Nature (http://www.nature.com/news/neuron-encyclopaedia-fires-up-to-reveal-brain-secrets-1.17232) , Science (http://www.sciencemag.org/news/2015/03/hacking-brain-one-cell-time), NBC (http://www.nbcnews.com/science/science-news/bigneuron-project-aims-untangle-brain-cell-structure-n334251), etc have nice coverage of this project.
 
 [March 2015] The first BigNeuron algorithm porting hackathon kicked off at Beijing. NPR reported this event (http://www.npr.org/sections/health-shots/2015/03/31/396586398/hackers-needed-to-teach-computers-to-spot-sick-brain-cells). Event snapshots are here (https://www.linkedin.com/pulse/bigneuron-beijing-hackathon-hanchuan-peng)
