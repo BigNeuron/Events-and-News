@@ -48,7 +48,7 @@ A short list of recent events and news of the BigNeuron project.
 
 [May 2015] GEN published a news piece about BigNeuron (http://www.genengnews.com/gen-articles/brain-projects-get-researchers-thinking-big/5474/)
 
-[April 2015] Lawrence Berkeley Nantional Lab issued a news piece regarding its partnership in BigNeuron (http://cs.lbl.gov/news-media/news/2015/bigneuron-unlocking-the-secrets-of-the-human-brain/)
+[April 2015] Lawrence Berkeley National Lab issued a news piece regarding its partnership in BigNeuron (http://cs.lbl.gov/news-media/news/2015/bigneuron-unlocking-the-secrets-of-the-human-brain/)
 
 [March 2015] GeekWire published its interview on BigNeuron (http://www.geekwire.com/2015/allen-institute-for-brain-science-leads-project-to-reconstruct-3d-neural-images-with-supercomputers/)
 
