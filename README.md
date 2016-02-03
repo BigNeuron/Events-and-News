@@ -28,6 +28,8 @@ A short list of recent events and news of the BigNeuron project.
 
 [Sept 2015] Milestone achieved! So far about 1.6 millions of single neuron reconstructions had been produced in BigNeuron large scale bench testing on multiple supercomputers, including TITAN, RHEA, EDISON, etc, from different sites. Interested people to analyze these data should contact us asap! 
 
+[Sept 2015] The Brain Projects featured a BigNeuron page at http://brainprojects.onair.cc/category/data/bigneuron/ .
+
 [Sept 2015] Hanchuan Peng highlighted the BigNeuron project in the CRCNS PI meeting at University of Washington. (https://crcns2015.wordpress.com/)
 
 [Sept 2015] Giorgio Ascoli was featured for his talk at BIH'2015 and involvement of BigNeuron (http://braininformatics.london/tag/bigneuron/)
@@ -60,6 +62,10 @@ A short list of recent events and news of the BigNeuron project.
 
 [March 2015] GeekWire published its interview on BigNeuron (http://www.geekwire.com/2015/allen-institute-for-brain-science-leads-project-to-reconstruct-3d-neural-images-with-supercomputers/)
 
+[March 2015] George Mason University issued a press release of the BigNeuron project (https://test.gmu.edu/news/1910)
+
 [March 2015] The BigNeuron project goes public! News from Nature (http://www.nature.com/news/neuron-encyclopaedia-fires-up-to-reveal-brain-secrets-1.17232) , Science (http://www.sciencemag.org/news/2015/03/hacking-brain-one-cell-time), NBC (http://www.nbcnews.com/science/science-news/bigneuron-project-aims-untangle-brain-cell-structure-n334251), etc have nice coverage of this project.
+
+[March 2015] Allen Institute issued the press release of the BigNeuron project (https://alleninstitute.org/press-release/international-initiative-launched-advance-state-art-digital-tracings-neurons)
 
 [March 2015] The first BigNeuron algorithm porting hackathon kicked off at Beijing. NPR reported this event (http://www.npr.org/sections/health-shots/2015/03/31/396586398/hackers-needed-to-teach-computers-to-spot-sick-brain-cells). Event snapshots are here (https://www.linkedin.com/pulse/bigneuron-beijing-hackathon-hanchuan-peng)
