@@ -2,7 +2,7 @@
 
 A short list of recent events and news of the BigNeuron project.
 
-[March 2016] BigNeuron to be highlighted at APS'2016 Annual Meeting, Baltimore, USA in the session "Large Scale Neuroscience Projects". (http://meetings.aps.org/Meeting/MAR16/Session/B12)
+* [March 2016] BigNeuron to be highlighted at APS'2016 Annual Meeting, Baltimore, USA in the session "Large Scale Neuroscience Projects". (http://meetings.aps.org/Meeting/MAR16/Session/B12)
 
 [Jan 2016] BigNeuron finished a successful visualization and analysis hackathon at Imperial College London's Data Science Institute (http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/engineering/datascienceinstitute/eventssummary/event_4-12-2015-16-35-42). 20+ people from 7 countries attended this intensive event. Event was cosponsored by ICL, HBP, and Allen Institute.
 
