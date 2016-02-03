@@ -18,6 +18,8 @@ A short list of recent events and news of the BigNeuron project.
 
 [Oct 2015] A Neuron Tracing algorithm workshop devoted for BigNeuron was held together in the 2015 Bioimage Informatics conference at NIST (http://www.nist.gov/itl/ssd/is/bioimage-conference-2015.cfm). 5 teams from Janelia (USA), Allen (USA), Taiwan, Singapore, and Illinois (USA), presented their featured work on various neruon tracing strategies.
 
+[Sept 2015] Milestone achieved! So far about 1.6 millions of single neuron reconstructions had been produced in BigNeuron large scale bench testing on multiple supercomputers, including TITAN, RHEA, EDISON, etc, from different sites. Interested people to analyze these data should contact us asap! 
+
 [Sept 2015] BigNeuron was featured in the CRCNS PI meeting at University of Washington. (https://crcns2015.wordpress.com/)
 
 [Aug 2015] The Big Machine for BigNeuron workshop, a supercomputing workshop featured BigNeuron, was held at London (http://braininformatics.london/)
